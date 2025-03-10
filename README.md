@@ -12,5 +12,7 @@ MACHINE LEARNING APPLIED TO TOXICITY STUDIES IN AQUATIC BODIES
 
 
 Banco de dados toxcast:
+
 https://www.epa.gov/comptox-tools/exploring-toxcast-data
+
 https://www.epa.gov/comptox-tools/toxicity-forecasting-toxcast
